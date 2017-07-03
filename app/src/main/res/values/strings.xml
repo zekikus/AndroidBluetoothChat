@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLM441E</string>
+    <string name="eslesme_yok">Eşleşen Cihaz Bulunamadı</string>
+    <string name="cihaz_yok">Keşfedilebilir Cihaz Bulunamadı</string>
+    <string name="bluetooth_switch">Bluetooth Aç</string>
+    <string name="eslesen_cihazlar">Eşleşen Cihazlar</string>
+    <string name="kesfedilen_cihazlar">Keşfedilen Cihazlar</string>
+    <string name="btn_baglan">Cihaz Seç</string>
+    <string name="btn_vazgec">Vazgeç</string>
+</resources>
